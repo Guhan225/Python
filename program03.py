@@ -1,0 +1,5 @@
+a=bool(int(input("Enter A in 0 or 1: ")))
+b=bool(int(input("Enter B in 0 or 1: ")))
+print("A and B: ",a and b)
+print("A or B: ",a or b)
+print("Not A: ", not a)
